@@ -1,10 +1,12 @@
 # 🌸 Gulmohar
-
 **Gulmohar** is a platform designed to help alumni connect, share experiences, discover events, support one another, and celebrate achievements from their college journey.
 
 The platform strengthens intra-college relationships by providing a shared digital space for peers and alumni.
-Note : “This was a collaborative project; I migrated the repository to my account while preserving commit history.”
+
 ---
+
+### Note
+This was a collaborative project; I migrated the repository to my account while preserving commit history.
 
 ## 🚀 Live Demo
 
